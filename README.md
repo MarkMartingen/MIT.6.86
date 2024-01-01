@@ -8,5 +8,6 @@ There are no big or challenging projects here, at least not now. I work woith mo
 If you happened to take the course as well and you would like to contribute to the code and co-learn with me in this  way, please do not hisitate to contanct me.
 
 **IMPORTANT NOTE:**
+
 None of the code, no exercises, no solutions and no data (unless it is publicly available) given to students taking the EdX course, are presented in this repository. All codes are written from scratch by the author(s) with the aim to prractice the algorithms and methods presented during the course. 
 
